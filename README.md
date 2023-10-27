@@ -21,9 +21,9 @@
     - AI ML based projects
     - Sports if you may like
 - 📫 How to reach me
-    - IG : d_jyothiraditya
     - Email : djyothiraditya654@gmal.com
     - LinkedIN : https://www.linkedin.com/in/jyothiraditya-danda-a5b105259
+    - IG : d_jyothiraditya
 
 <!---
 DJ654312/DJ654312 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
