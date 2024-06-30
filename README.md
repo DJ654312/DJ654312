@@ -7,13 +7,12 @@
     - Sports
     - Adventure, etc...
 - 🌱 I’m currently learning
-    - 5th SEM CSE in PESU
-    - Unity, Blender and Unreal
-    - AR / VR
+    - Unreal, Blender and Unity
+    - AR / VR / XR and Digital Twining
     - CCNA
     - ANDROID APP Devlopment
 - 💞️ I’m looking to collaborate on
-    - AR/VR
+    - AR/VR/XR Digital Twining.
     - Game Devlopment using Unity or Unreal Engine.
     - App Dev Projects
     - Cyber Security
